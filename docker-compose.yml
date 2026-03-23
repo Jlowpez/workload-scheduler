@@ -1,0 +1,6 @@
+# docker-compose.yml — workload-scheduler
+#
+# Services added when Phase 4 build begins (Week 25).
+# Full compose configuration will match agent-core's pattern.
+
+services: {}
